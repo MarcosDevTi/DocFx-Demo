@@ -1,6 +1,7 @@
 Introduction to *DocFX Incremental Build*
 ================================================
 [Ministére](http://www.environnement.gouv.qc.ca/)
+
 Workflow for DocFX build with incremental.
 
 ![DocFX incremental build workflow](images/incrementalbuildframework.png)
