@@ -1,5 +1,6 @@
 ﻿using FluentValidation.Results;
 using System.Threading.Tasks;
+// ReSharper disable All
 
 namespace Env.Commun.Core
 {
@@ -21,14 +22,16 @@ namespace Env.Commun.Core
         /// <summary>
         /// This sample shows how to specify the <see cref="Evenement"/> constructor as a cref attribute.
         /// </summary>
+
         Task PublierEvenement<T>(T evenement) where T : Evenement;
+
         /// <summary>
         /// The GetZero method.
         /// </summary>
         /// <example>
         /// This sample shows how to call the <see cref="Evenement"/> method.
         /// <code>
-        /// class Evenement
+        /// public class Evenement
         /// {
         ///     static int Main()
         ///     {

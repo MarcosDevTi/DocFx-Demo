@@ -1,5 +1,5 @@
-- name: Concepts
+- name: Site
   href: Concepts/
   topicHref: Concepts/Abstract.md
-- name: Reference
+- name: Code
   href: reference/
