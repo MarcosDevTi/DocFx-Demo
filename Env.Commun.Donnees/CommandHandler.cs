@@ -1,7 +1,7 @@
 ﻿using FluentValidation.Results;
 using System.Threading.Tasks;
 
-namespace Env.Commun
+namespace Env.Commun.Donnees
 {
     public abstract class CommandHandler
     {

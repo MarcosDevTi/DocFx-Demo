@@ -39,63 +39,6 @@ references:
   isSpec: "True"
   fullName: Desktop.Form1.Dispose
   nameWithType: Form1.Dispose
-- uid: Env.Commun
-  name: Env.Commun
-  href: reference/Env.Commun.html
-  commentId: N:Env.Commun
-  fullName: Env.Commun
-  nameWithType: Env.Commun
-- uid: Env.Commun.CommandHandler
-  name: CommandHandler
-  href: reference/Env.Commun.CommandHandler.html
-  commentId: T:Env.Commun.CommandHandler
-  fullName: Env.Commun.CommandHandler
-  nameWithType: CommandHandler
-- uid: Env.Commun.CommandHandler.#ctor
-  name: CommandHandler()
-  href: reference/Env.Commun.CommandHandler.html#Env_Commun_CommandHandler__ctor
-  commentId: M:Env.Commun.CommandHandler.#ctor
-  fullName: Env.Commun.CommandHandler.CommandHandler()
-  nameWithType: CommandHandler.CommandHandler()
-- uid: Env.Commun.CommandHandler.#ctor*
-  name: CommandHandler
-  href: reference/Env.Commun.CommandHandler.html#Env_Commun_CommandHandler__ctor_
-  commentId: Overload:Env.Commun.CommandHandler.#ctor
-  isSpec: "True"
-  fullName: Env.Commun.CommandHandler.CommandHandler
-  nameWithType: CommandHandler.CommandHandler
-- uid: Env.Commun.CommandHandler.AdicionarErro(System.String)
-  name: AdicionarErro(String)
-  href: reference/Env.Commun.CommandHandler.html#Env_Commun_CommandHandler_AdicionarErro_System_String_
-  commentId: M:Env.Commun.CommandHandler.AdicionarErro(System.String)
-  fullName: Env.Commun.CommandHandler.AdicionarErro(System.String)
-  nameWithType: CommandHandler.AdicionarErro(String)
-- uid: Env.Commun.CommandHandler.AdicionarErro*
-  name: AdicionarErro
-  href: reference/Env.Commun.CommandHandler.html#Env_Commun_CommandHandler_AdicionarErro_
-  commentId: Overload:Env.Commun.CommandHandler.AdicionarErro
-  isSpec: "True"
-  fullName: Env.Commun.CommandHandler.AdicionarErro
-  nameWithType: CommandHandler.AdicionarErro
-- uid: Env.Commun.CommandHandler.PersistirDados(IUnitOfWork)
-  name: PersistirDados(IUnitOfWork)
-  href: reference/Env.Commun.CommandHandler.html#Env_Commun_CommandHandler_PersistirDados_IUnitOfWork_
-  commentId: M:Env.Commun.CommandHandler.PersistirDados(IUnitOfWork)
-  fullName: Env.Commun.CommandHandler.PersistirDados(IUnitOfWork)
-  nameWithType: CommandHandler.PersistirDados(IUnitOfWork)
-- uid: Env.Commun.CommandHandler.PersistirDados*
-  name: PersistirDados
-  href: reference/Env.Commun.CommandHandler.html#Env_Commun_CommandHandler_PersistirDados_
-  commentId: Overload:Env.Commun.CommandHandler.PersistirDados
-  isSpec: "True"
-  fullName: Env.Commun.CommandHandler.PersistirDados
-  nameWithType: CommandHandler.PersistirDados
-- uid: Env.Commun.CommandHandler.ValidationResult
-  name: ValidationResult
-  href: reference/Env.Commun.CommandHandler.html#Env_Commun_CommandHandler_ValidationResult
-  commentId: F:Env.Commun.CommandHandler.ValidationResult
-  fullName: Env.Commun.CommandHandler.ValidationResult
-  nameWithType: CommandHandler.ValidationResult
 - uid: Env.Commun.Core
   name: Env.Commun.Core
   href: reference/Env.Commun.Core.html
@@ -786,22 +729,6 @@ references:
   fullName.vb: Env.Commun.Core.IMessageBus.Respond(Of TRequest, TResponse)(System.Func(Of TRequest, TResponse))
   nameWithType: IMessageBus.Respond<TRequest, TResponse>(Func<TRequest, TResponse>)
   nameWithType.vb: IMessageBus.Respond(Of TRequest, TResponse)(Func(Of TRequest, TResponse))
-- uid: Env.Commun.Core.IMessageBus.RespondAsync*
-  name: RespondAsync
-  href: reference/Env.Commun.Core.IMessageBus.html#Env_Commun_Core_IMessageBus_RespondAsync_
-  commentId: Overload:Env.Commun.Core.IMessageBus.RespondAsync
-  isSpec: "True"
-  fullName: Env.Commun.Core.IMessageBus.RespondAsync
-  nameWithType: IMessageBus.RespondAsync
-- uid: Env.Commun.Core.IMessageBus.RespondAsync``2(System.Func{``0,System.Threading.Tasks.Task{``1}})
-  name: RespondAsync<TRequest, TResponse>(Func<TRequest, Task<TResponse>>)
-  href: reference/Env.Commun.Core.IMessageBus.html#Env_Commun_Core_IMessageBus_RespondAsync__2_System_Func___0_System_Threading_Tasks_Task___1___
-  commentId: M:Env.Commun.Core.IMessageBus.RespondAsync``2(System.Func{``0,System.Threading.Tasks.Task{``1}})
-  name.vb: RespondAsync(Of TRequest, TResponse)(Func(Of TRequest, Task(Of TResponse)))
-  fullName: Env.Commun.Core.IMessageBus.RespondAsync<TRequest, TResponse>(System.Func<TRequest, System.Threading.Tasks.Task<TResponse>>)
-  fullName.vb: Env.Commun.Core.IMessageBus.RespondAsync(Of TRequest, TResponse)(System.Func(Of TRequest, System.Threading.Tasks.Task(Of TResponse)))
-  nameWithType: IMessageBus.RespondAsync<TRequest, TResponse>(Func<TRequest, Task<TResponse>>)
-  nameWithType.vb: IMessageBus.RespondAsync(Of TRequest, TResponse)(Func(Of TRequest, Task(Of TResponse)))
 - uid: Env.Commun.Core.IMessageBus.Subscribe*
   name: Subscribe
   href: reference/Env.Commun.Core.IMessageBus.html#Env_Commun_Core_IMessageBus_Subscribe_
@@ -1571,6 +1498,57 @@ references:
   commentId: N:Env.Commun.Donnees
   fullName: Env.Commun.Donnees
   nameWithType: Env.Commun.Donnees
+- uid: Env.Commun.Donnees.CommandHandler
+  name: CommandHandler
+  href: reference/Env.Commun.Donnees.CommandHandler.html
+  commentId: T:Env.Commun.Donnees.CommandHandler
+  fullName: Env.Commun.Donnees.CommandHandler
+  nameWithType: CommandHandler
+- uid: Env.Commun.Donnees.CommandHandler.#ctor
+  name: CommandHandler()
+  href: reference/Env.Commun.Donnees.CommandHandler.html#Env_Commun_Donnees_CommandHandler__ctor
+  commentId: M:Env.Commun.Donnees.CommandHandler.#ctor
+  fullName: Env.Commun.Donnees.CommandHandler.CommandHandler()
+  nameWithType: CommandHandler.CommandHandler()
+- uid: Env.Commun.Donnees.CommandHandler.#ctor*
+  name: CommandHandler
+  href: reference/Env.Commun.Donnees.CommandHandler.html#Env_Commun_Donnees_CommandHandler__ctor_
+  commentId: Overload:Env.Commun.Donnees.CommandHandler.#ctor
+  isSpec: "True"
+  fullName: Env.Commun.Donnees.CommandHandler.CommandHandler
+  nameWithType: CommandHandler.CommandHandler
+- uid: Env.Commun.Donnees.CommandHandler.AdicionarErro(System.String)
+  name: AdicionarErro(String)
+  href: reference/Env.Commun.Donnees.CommandHandler.html#Env_Commun_Donnees_CommandHandler_AdicionarErro_System_String_
+  commentId: M:Env.Commun.Donnees.CommandHandler.AdicionarErro(System.String)
+  fullName: Env.Commun.Donnees.CommandHandler.AdicionarErro(System.String)
+  nameWithType: CommandHandler.AdicionarErro(String)
+- uid: Env.Commun.Donnees.CommandHandler.AdicionarErro*
+  name: AdicionarErro
+  href: reference/Env.Commun.Donnees.CommandHandler.html#Env_Commun_Donnees_CommandHandler_AdicionarErro_
+  commentId: Overload:Env.Commun.Donnees.CommandHandler.AdicionarErro
+  isSpec: "True"
+  fullName: Env.Commun.Donnees.CommandHandler.AdicionarErro
+  nameWithType: CommandHandler.AdicionarErro
+- uid: Env.Commun.Donnees.CommandHandler.PersistirDados(Env.Commun.Donnees.IUnitOfWork)
+  name: PersistirDados(IUnitOfWork)
+  href: reference/Env.Commun.Donnees.CommandHandler.html#Env_Commun_Donnees_CommandHandler_PersistirDados_Env_Commun_Donnees_IUnitOfWork_
+  commentId: M:Env.Commun.Donnees.CommandHandler.PersistirDados(Env.Commun.Donnees.IUnitOfWork)
+  fullName: Env.Commun.Donnees.CommandHandler.PersistirDados(Env.Commun.Donnees.IUnitOfWork)
+  nameWithType: CommandHandler.PersistirDados(IUnitOfWork)
+- uid: Env.Commun.Donnees.CommandHandler.PersistirDados*
+  name: PersistirDados
+  href: reference/Env.Commun.Donnees.CommandHandler.html#Env_Commun_Donnees_CommandHandler_PersistirDados_
+  commentId: Overload:Env.Commun.Donnees.CommandHandler.PersistirDados
+  isSpec: "True"
+  fullName: Env.Commun.Donnees.CommandHandler.PersistirDados
+  nameWithType: CommandHandler.PersistirDados
+- uid: Env.Commun.Donnees.CommandHandler.ValidationResult
+  name: ValidationResult
+  href: reference/Env.Commun.Donnees.CommandHandler.html#Env_Commun_Donnees_CommandHandler_ValidationResult
+  commentId: F:Env.Commun.Donnees.CommandHandler.ValidationResult
+  fullName: Env.Commun.Donnees.CommandHandler.ValidationResult
+  nameWithType: CommandHandler.ValidationResult
 - uid: Env.Commun.Donnees.DbContext
   name: DbContext
   href: reference/Env.Commun.Donnees.DbContext.html
@@ -1746,6 +1724,9 @@ references:
   isSpec: "True"
   fullName: Env.Commun.Donnees.IUnitOfWork.Commit
   nameWithType: IUnitOfWork.Commit
+- uid: intro_toc
+  name: Table-Of-Content (TOC) Files
+  href: Concepts/tutorial/intro_toc.html
 - uid: Lib
   name: Lib
   href: reference/Lib.html
@@ -1846,3 +1827,6 @@ references:
   isSpec: "True"
   fullName: SqlBuilder.TestCategory.TestMet
   nameWithType: TestCategory.TestMet
+- uid: user_manual
+  name: docfx.exe User Manual
+  href: Concepts/tutorial/docfx.exe_user_manual.html

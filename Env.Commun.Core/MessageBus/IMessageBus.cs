@@ -28,9 +28,5 @@ namespace Env.Commun.Core
         IDisposable Respond<TRequest, TResponse>(Func<TRequest, TResponse> responder)
             where TRequest : IntegrationEvenement
             where TResponse : ResponseMessage;
-
-        IDisposable RespondAsync<TRequest, TResponse>(Func<TRequest, Task<TResponse>> responder)
-            where TRequest : IntegrationEvenement
-            where TResponse : ResponseMessage;
     }
 }
