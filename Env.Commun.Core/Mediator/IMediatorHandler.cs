@@ -22,7 +22,10 @@ namespace Env.Commun.Core
         /// <summary>
         /// This sample shows how to specify the <see cref="Evenement"/> constructor as a cref attribute.
         /// </summary>
-
+        /// <param name="evenement">Événement à publier</param>
+        /// <returns>A Task representing a point's location, in the form (x,y),
+        ///    without any leading, trailing, or embedded whitespace.</returns>
+        /// <typeparam name="T">Type générique événement</typeparam>
         Task PublierEvenement<T>(T evenement) where T : Evenement;
 
         /// <summary>
