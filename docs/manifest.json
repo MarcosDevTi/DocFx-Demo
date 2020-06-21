@@ -1,6 +1,6 @@
 {
   "homepages": [],
-  "source_base_path": "C:/ministere/DocFx/DocFx-Demo/DocFx-Demo/docfx",
+  "source_base_path": "C:/ministere/DocFx-Demo/DocFx",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "Concepts/Abstract.html",
-          "hash": "vOqA5FRJ7IWzdj8Rx+ye5Q=="
+          "hash": "DoVz05rd5BqnIkyYcfYAlA=="
         }
       },
       "is_incremental": true,
@@ -21,7 +21,7 @@
       "output": {
         ".html": {
           "relative_path": "Concepts/Advanced/Abstract.html",
-          "hash": "piAY6YxM3J8ICyZ73bv80g=="
+          "hash": "ubzITDGSoByFvC5dOWxmyg=="
         }
       },
       "is_incremental": true,
@@ -33,7 +33,7 @@
       "output": {
         ".html": {
           "relative_path": "Concepts/Advanced/Advanced.html",
-          "hash": "t27q/5TjmU0oVKpjc75D0w=="
+          "hash": "MOaCfCdgDP4Cc+QpjxFrzg=="
         }
       },
       "is_incremental": true,
@@ -45,7 +45,7 @@
       "output": {
         ".html": {
           "relative_path": "Concepts/Easy/Abstract.html",
-          "hash": "wJdqY7pMJhBESi4WCepS7g=="
+          "hash": "ubyD3UqZSRGnZKTkycpZiA=="
         }
       },
       "is_incremental": true,
@@ -57,7 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "Concepts/Easy/Easy.html",
-          "hash": "mAxqQSHKftIyqA88LEfRNQ=="
+          "hash": "2KD6GxZMoHQvqyzZ52C5uA=="
         }
       },
       "is_incremental": true,
@@ -657,30 +657,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "reference/Desktop.Form1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "reference/Desktop.Form1.html",
-          "hash": "pM85IW9bqGEQ7IIQ+hR5tQ=="
-        }
-      },
-      "is_incremental": true,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "reference/Desktop.yml",
-      "output": {
-        ".html": {
-          "relative_path": "reference/Desktop.html",
-          "hash": "FhW4CgVulsg0oh+2hmTslw=="
-        }
-      },
-      "is_incremental": true,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "reference/Env.Commun.Core.AppSettings.yml",
       "output": {
         ".html": {
@@ -817,7 +793,7 @@
       "output": {
         ".html": {
           "relative_path": "reference/Env.Commun.Core.IMediatorHandler.html",
-          "hash": "FsAHZOmFLCqzLGaYbzG1pQ=="
+          "hash": "KthsMGYpIwKQmyyBB4dstw=="
         }
       },
       "is_incremental": true,
@@ -829,7 +805,7 @@
       "output": {
         ".html": {
           "relative_path": "reference/Env.Commun.Core.IMessageBus.html",
-          "hash": "W40ZLucS9P28qDJnZW+leg=="
+          "hash": "EGzlYOyoDETHoNsvTYAyog=="
         }
       },
       "is_incremental": true,
@@ -877,7 +853,7 @@
       "output": {
         ".html": {
           "relative_path": "reference/Env.Commun.Core.MediatorHandler.html",
-          "hash": "o23Xo7A39oHCoQ64ROM4PA=="
+          "hash": "o2mYjmUV4lYaVbTxgeA3fg=="
         }
       },
       "is_incremental": true,
@@ -901,7 +877,7 @@
       "output": {
         ".html": {
           "relative_path": "reference/Env.Commun.Core.MessageBus.html",
-          "hash": "OgsO6EdR6N8fsUsMSIBkhg=="
+          "hash": "/c2Imd3kO2tsuPIg/DNYeQ=="
         }
       },
       "is_incremental": true,
@@ -1113,42 +1089,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "reference/Lib.Class1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "reference/Lib.Class1.html",
-          "hash": "bBuPBaemKfDdHwfpklF5rg=="
-        }
-      },
-      "is_incremental": true,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "reference/Lib.Customer.yml",
-      "output": {
-        ".html": {
-          "relative_path": "reference/Lib.Customer.html",
-          "hash": "ltEpzrsOOlaNbP4/x04KLw=="
-        }
-      },
-      "is_incremental": true,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "reference/Lib.yml",
-      "output": {
-        ".html": {
-          "relative_path": "reference/Lib.html",
-          "hash": "tfGl39/sxmcuTTPA8pAZ/w=="
-        }
-      },
-      "is_incremental": true,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "reference/SqlBuilder.Class1.yml",
       "output": {
         ".html": {
@@ -1213,7 +1153,7 @@
       "output": {
         ".html": {
           "relative_path": "reference/toc.html",
-          "hash": "Xe38kqi+FvvQqJ3J869wTw=="
+          "hash": "5hZ6b/xUcrwcz9H7r4S87w=="
         }
       },
       "is_incremental": false,
@@ -1225,7 +1165,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "OdA9FqQVC3GcMfAE88aO0Q=="
+          "hash": "72LDoRAPkgAsqV8owdsfcA=="
         }
       },
       "is_incremental": false,
@@ -1250,8 +1190,8 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 46,
-          "skipped_file_count": 46
+          "total_file_count": 41,
+          "skipped_file_count": 41
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
