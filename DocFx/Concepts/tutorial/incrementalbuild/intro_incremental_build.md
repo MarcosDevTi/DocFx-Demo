@@ -1,7 +1,7 @@
 Introduction to *DocFX Incremental Build*
 ================================================
 
-Workflow for DocFX build with incremental.
+Workflow for DocFX build with incremental. Test edit
 
 ![DocFX incremental build workflow](images/incrementalbuildframework.png)
 
