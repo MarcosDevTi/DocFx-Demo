@@ -1,7 +1,9 @@
-﻿using System.Threading.Tasks;
+﻿// ReSharper disable All
+
+using System.Threading.Tasks;
 using FluentValidation.Results;
 
-namespace Env.Commun.Core
+namespace Env.Commun
 {
     /// <summary>
     /// L'interface de demande / réponse gère à la fois les scénarios de commande et de requête.

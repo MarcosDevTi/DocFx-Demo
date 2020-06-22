@@ -1,6 +1,366 @@
 ### YamlMime:XRefMap
 sorted: true
 references:
+- uid: Env.Commun
+  name: Env.Commun
+  href: reference/Env.Commun.html
+  commentId: N:Env.Commun
+  fullName: Env.Commun
+  nameWithType: Env.Commun
+- uid: Env.Commun.AppSettings
+  name: AppSettings
+  href: reference/Env.Commun.AppSettings.html
+  commentId: T:Env.Commun.AppSettings
+  fullName: Env.Commun.AppSettings
+  nameWithType: AppSettings
+- uid: Env.Commun.AppSettings.Emetteur
+  name: Emetteur
+  href: reference/Env.Commun.AppSettings.html#Env_Commun_AppSettings_Emetteur
+  commentId: P:Env.Commun.AppSettings.Emetteur
+  fullName: Env.Commun.AppSettings.Emetteur
+  nameWithType: AppSettings.Emetteur
+- uid: Env.Commun.AppSettings.Emetteur*
+  name: Emetteur
+  href: reference/Env.Commun.AppSettings.html#Env_Commun_AppSettings_Emetteur_
+  commentId: Overload:Env.Commun.AppSettings.Emetteur
+  isSpec: "True"
+  fullName: Env.Commun.AppSettings.Emetteur
+  nameWithType: AppSettings.Emetteur
+- uid: Env.Commun.AppSettings.ExpirationHeures
+  name: ExpirationHeures
+  href: reference/Env.Commun.AppSettings.html#Env_Commun_AppSettings_ExpirationHeures
+  commentId: P:Env.Commun.AppSettings.ExpirationHeures
+  fullName: Env.Commun.AppSettings.ExpirationHeures
+  nameWithType: AppSettings.ExpirationHeures
+- uid: Env.Commun.AppSettings.ExpirationHeures*
+  name: ExpirationHeures
+  href: reference/Env.Commun.AppSettings.html#Env_Commun_AppSettings_ExpirationHeures_
+  commentId: Overload:Env.Commun.AppSettings.ExpirationHeures
+  isSpec: "True"
+  fullName: Env.Commun.AppSettings.ExpirationHeures
+  nameWithType: AppSettings.ExpirationHeures
+- uid: Env.Commun.AppSettings.Secret
+  name: Secret
+  href: reference/Env.Commun.AppSettings.html#Env_Commun_AppSettings_Secret
+  commentId: P:Env.Commun.AppSettings.Secret
+  fullName: Env.Commun.AppSettings.Secret
+  nameWithType: AppSettings.Secret
+- uid: Env.Commun.AppSettings.Secret*
+  name: Secret
+  href: reference/Env.Commun.AppSettings.html#Env_Commun_AppSettings_Secret_
+  commentId: Overload:Env.Commun.AppSettings.Secret
+  isSpec: "True"
+  fullName: Env.Commun.AppSettings.Secret
+  nameWithType: AppSettings.Secret
+- uid: Env.Commun.AppSettings.ValableLe
+  name: ValableLe
+  href: reference/Env.Commun.AppSettings.html#Env_Commun_AppSettings_ValableLe
+  commentId: P:Env.Commun.AppSettings.ValableLe
+  fullName: Env.Commun.AppSettings.ValableLe
+  nameWithType: AppSettings.ValableLe
+- uid: Env.Commun.AppSettings.ValableLe*
+  name: ValableLe
+  href: reference/Env.Commun.AppSettings.html#Env_Commun_AppSettings_ValableLe_
+  commentId: Overload:Env.Commun.AppSettings.ValableLe
+  isSpec: "True"
+  fullName: Env.Commun.AppSettings.ValableLe
+  nameWithType: AppSettings.ValableLe
+- uid: Env.Commun.AspNetUser
+  name: AspNetUser
+  href: reference/Env.Commun.AspNetUser.html
+  commentId: T:Env.Commun.AspNetUser
+  fullName: Env.Commun.AspNetUser
+  nameWithType: AspNetUser
+- uid: Env.Commun.AspNetUser.#ctor(Microsoft.AspNetCore.Http.IHttpContextAccessor)
+  name: AspNetUser(IHttpContextAccessor)
+  href: reference/Env.Commun.AspNetUser.html#Env_Commun_AspNetUser__ctor_Microsoft_AspNetCore_Http_IHttpContextAccessor_
+  commentId: M:Env.Commun.AspNetUser.#ctor(Microsoft.AspNetCore.Http.IHttpContextAccessor)
+  fullName: Env.Commun.AspNetUser.AspNetUser(Microsoft.AspNetCore.Http.IHttpContextAccessor)
+  nameWithType: AspNetUser.AspNetUser(IHttpContextAccessor)
+- uid: Env.Commun.AspNetUser.#ctor*
+  name: AspNetUser
+  href: reference/Env.Commun.AspNetUser.html#Env_Commun_AspNetUser__ctor_
+  commentId: Overload:Env.Commun.AspNetUser.#ctor
+  isSpec: "True"
+  fullName: Env.Commun.AspNetUser.AspNetUser
+  nameWithType: AspNetUser.AspNetUser
+- uid: Env.Commun.AspNetUser.EstaAutenticado
+  name: EstaAutenticado()
+  href: reference/Env.Commun.AspNetUser.html#Env_Commun_AspNetUser_EstaAutenticado
+  commentId: M:Env.Commun.AspNetUser.EstaAutenticado
+  fullName: Env.Commun.AspNetUser.EstaAutenticado()
+  nameWithType: AspNetUser.EstaAutenticado()
+- uid: Env.Commun.AspNetUser.EstaAutenticado*
+  name: EstaAutenticado
+  href: reference/Env.Commun.AspNetUser.html#Env_Commun_AspNetUser_EstaAutenticado_
+  commentId: Overload:Env.Commun.AspNetUser.EstaAutenticado
+  isSpec: "True"
+  fullName: Env.Commun.AspNetUser.EstaAutenticado
+  nameWithType: AspNetUser.EstaAutenticado
+- uid: Env.Commun.AspNetUser.Name
+  name: Name
+  href: reference/Env.Commun.AspNetUser.html#Env_Commun_AspNetUser_Name
+  commentId: P:Env.Commun.AspNetUser.Name
+  fullName: Env.Commun.AspNetUser.Name
+  nameWithType: AspNetUser.Name
+- uid: Env.Commun.AspNetUser.Name*
+  name: Name
+  href: reference/Env.Commun.AspNetUser.html#Env_Commun_AspNetUser_Name_
+  commentId: Overload:Env.Commun.AspNetUser.Name
+  isSpec: "True"
+  fullName: Env.Commun.AspNetUser.Name
+  nameWithType: AspNetUser.Name
+- uid: Env.Commun.AspNetUser.ObterClaims
+  name: ObterClaims()
+  href: reference/Env.Commun.AspNetUser.html#Env_Commun_AspNetUser_ObterClaims
+  commentId: M:Env.Commun.AspNetUser.ObterClaims
+  fullName: Env.Commun.AspNetUser.ObterClaims()
+  nameWithType: AspNetUser.ObterClaims()
+- uid: Env.Commun.AspNetUser.ObterClaims*
+  name: ObterClaims
+  href: reference/Env.Commun.AspNetUser.html#Env_Commun_AspNetUser_ObterClaims_
+  commentId: Overload:Env.Commun.AspNetUser.ObterClaims
+  isSpec: "True"
+  fullName: Env.Commun.AspNetUser.ObterClaims
+  nameWithType: AspNetUser.ObterClaims
+- uid: Env.Commun.AspNetUser.ObterHttpContext
+  name: ObterHttpContext()
+  href: reference/Env.Commun.AspNetUser.html#Env_Commun_AspNetUser_ObterHttpContext
+  commentId: M:Env.Commun.AspNetUser.ObterHttpContext
+  fullName: Env.Commun.AspNetUser.ObterHttpContext()
+  nameWithType: AspNetUser.ObterHttpContext()
+- uid: Env.Commun.AspNetUser.ObterHttpContext*
+  name: ObterHttpContext
+  href: reference/Env.Commun.AspNetUser.html#Env_Commun_AspNetUser_ObterHttpContext_
+  commentId: Overload:Env.Commun.AspNetUser.ObterHttpContext
+  isSpec: "True"
+  fullName: Env.Commun.AspNetUser.ObterHttpContext
+  nameWithType: AspNetUser.ObterHttpContext
+- uid: Env.Commun.AspNetUser.ObterUserEmail
+  name: ObterUserEmail()
+  href: reference/Env.Commun.AspNetUser.html#Env_Commun_AspNetUser_ObterUserEmail
+  commentId: M:Env.Commun.AspNetUser.ObterUserEmail
+  fullName: Env.Commun.AspNetUser.ObterUserEmail()
+  nameWithType: AspNetUser.ObterUserEmail()
+- uid: Env.Commun.AspNetUser.ObterUserEmail*
+  name: ObterUserEmail
+  href: reference/Env.Commun.AspNetUser.html#Env_Commun_AspNetUser_ObterUserEmail_
+  commentId: Overload:Env.Commun.AspNetUser.ObterUserEmail
+  isSpec: "True"
+  fullName: Env.Commun.AspNetUser.ObterUserEmail
+  nameWithType: AspNetUser.ObterUserEmail
+- uid: Env.Commun.AspNetUser.ObterUserId
+  name: ObterUserId()
+  href: reference/Env.Commun.AspNetUser.html#Env_Commun_AspNetUser_ObterUserId
+  commentId: M:Env.Commun.AspNetUser.ObterUserId
+  fullName: Env.Commun.AspNetUser.ObterUserId()
+  nameWithType: AspNetUser.ObterUserId()
+- uid: Env.Commun.AspNetUser.ObterUserId*
+  name: ObterUserId
+  href: reference/Env.Commun.AspNetUser.html#Env_Commun_AspNetUser_ObterUserId_
+  commentId: Overload:Env.Commun.AspNetUser.ObterUserId
+  isSpec: "True"
+  fullName: Env.Commun.AspNetUser.ObterUserId
+  nameWithType: AspNetUser.ObterUserId
+- uid: Env.Commun.AspNetUser.ObterUserToken
+  name: ObterUserToken()
+  href: reference/Env.Commun.AspNetUser.html#Env_Commun_AspNetUser_ObterUserToken
+  commentId: M:Env.Commun.AspNetUser.ObterUserToken
+  fullName: Env.Commun.AspNetUser.ObterUserToken()
+  nameWithType: AspNetUser.ObterUserToken()
+- uid: Env.Commun.AspNetUser.ObterUserToken*
+  name: ObterUserToken
+  href: reference/Env.Commun.AspNetUser.html#Env_Commun_AspNetUser_ObterUserToken_
+  commentId: Overload:Env.Commun.AspNetUser.ObterUserToken
+  isSpec: "True"
+  fullName: Env.Commun.AspNetUser.ObterUserToken
+  nameWithType: AspNetUser.ObterUserToken
+- uid: Env.Commun.AspNetUser.PossuiRole(System.String)
+  name: PossuiRole(String)
+  href: reference/Env.Commun.AspNetUser.html#Env_Commun_AspNetUser_PossuiRole_System_String_
+  commentId: M:Env.Commun.AspNetUser.PossuiRole(System.String)
+  fullName: Env.Commun.AspNetUser.PossuiRole(System.String)
+  nameWithType: AspNetUser.PossuiRole(String)
+- uid: Env.Commun.AspNetUser.PossuiRole*
+  name: PossuiRole
+  href: reference/Env.Commun.AspNetUser.html#Env_Commun_AspNetUser_PossuiRole_
+  commentId: Overload:Env.Commun.AspNetUser.PossuiRole
+  isSpec: "True"
+  fullName: Env.Commun.AspNetUser.PossuiRole
+  nameWithType: AspNetUser.PossuiRole
+- uid: Env.Commun.ClaimsAuthorizeAttribute
+  name: ClaimsAuthorizeAttribute
+  href: reference/Env.Commun.ClaimsAuthorizeAttribute.html
+  commentId: T:Env.Commun.ClaimsAuthorizeAttribute
+  fullName: Env.Commun.ClaimsAuthorizeAttribute
+  nameWithType: ClaimsAuthorizeAttribute
+- uid: Env.Commun.ClaimsAuthorizeAttribute.#ctor(System.String,System.String)
+  name: ClaimsAuthorizeAttribute(String, String)
+  href: reference/Env.Commun.ClaimsAuthorizeAttribute.html#Env_Commun_ClaimsAuthorizeAttribute__ctor_System_String_System_String_
+  commentId: M:Env.Commun.ClaimsAuthorizeAttribute.#ctor(System.String,System.String)
+  fullName: Env.Commun.ClaimsAuthorizeAttribute.ClaimsAuthorizeAttribute(System.String, System.String)
+  nameWithType: ClaimsAuthorizeAttribute.ClaimsAuthorizeAttribute(String, String)
+- uid: Env.Commun.ClaimsAuthorizeAttribute.#ctor*
+  name: ClaimsAuthorizeAttribute
+  href: reference/Env.Commun.ClaimsAuthorizeAttribute.html#Env_Commun_ClaimsAuthorizeAttribute__ctor_
+  commentId: Overload:Env.Commun.ClaimsAuthorizeAttribute.#ctor
+  isSpec: "True"
+  fullName: Env.Commun.ClaimsAuthorizeAttribute.ClaimsAuthorizeAttribute
+  nameWithType: ClaimsAuthorizeAttribute.ClaimsAuthorizeAttribute
+- uid: Env.Commun.ClaimsPrincipalExtensions
+  name: ClaimsPrincipalExtensions
+  href: reference/Env.Commun.ClaimsPrincipalExtensions.html
+  commentId: T:Env.Commun.ClaimsPrincipalExtensions
+  fullName: Env.Commun.ClaimsPrincipalExtensions
+  nameWithType: ClaimsPrincipalExtensions
+- uid: Env.Commun.ClaimsPrincipalExtensions.GetUserEmail(System.Security.Claims.ClaimsPrincipal)
+  name: GetUserEmail(ClaimsPrincipal)
+  href: reference/Env.Commun.ClaimsPrincipalExtensions.html#Env_Commun_ClaimsPrincipalExtensions_GetUserEmail_System_Security_Claims_ClaimsPrincipal_
+  commentId: M:Env.Commun.ClaimsPrincipalExtensions.GetUserEmail(System.Security.Claims.ClaimsPrincipal)
+  fullName: Env.Commun.ClaimsPrincipalExtensions.GetUserEmail(System.Security.Claims.ClaimsPrincipal)
+  nameWithType: ClaimsPrincipalExtensions.GetUserEmail(ClaimsPrincipal)
+- uid: Env.Commun.ClaimsPrincipalExtensions.GetUserEmail*
+  name: GetUserEmail
+  href: reference/Env.Commun.ClaimsPrincipalExtensions.html#Env_Commun_ClaimsPrincipalExtensions_GetUserEmail_
+  commentId: Overload:Env.Commun.ClaimsPrincipalExtensions.GetUserEmail
+  isSpec: "True"
+  fullName: Env.Commun.ClaimsPrincipalExtensions.GetUserEmail
+  nameWithType: ClaimsPrincipalExtensions.GetUserEmail
+- uid: Env.Commun.ClaimsPrincipalExtensions.GetUserId(System.Security.Claims.ClaimsPrincipal)
+  name: GetUserId(ClaimsPrincipal)
+  href: reference/Env.Commun.ClaimsPrincipalExtensions.html#Env_Commun_ClaimsPrincipalExtensions_GetUserId_System_Security_Claims_ClaimsPrincipal_
+  commentId: M:Env.Commun.ClaimsPrincipalExtensions.GetUserId(System.Security.Claims.ClaimsPrincipal)
+  fullName: Env.Commun.ClaimsPrincipalExtensions.GetUserId(System.Security.Claims.ClaimsPrincipal)
+  nameWithType: ClaimsPrincipalExtensions.GetUserId(ClaimsPrincipal)
+- uid: Env.Commun.ClaimsPrincipalExtensions.GetUserId*
+  name: GetUserId
+  href: reference/Env.Commun.ClaimsPrincipalExtensions.html#Env_Commun_ClaimsPrincipalExtensions_GetUserId_
+  commentId: Overload:Env.Commun.ClaimsPrincipalExtensions.GetUserId
+  isSpec: "True"
+  fullName: Env.Commun.ClaimsPrincipalExtensions.GetUserId
+  nameWithType: ClaimsPrincipalExtensions.GetUserId
+- uid: Env.Commun.ClaimsPrincipalExtensions.GetUserToken(System.Security.Claims.ClaimsPrincipal)
+  name: GetUserToken(ClaimsPrincipal)
+  href: reference/Env.Commun.ClaimsPrincipalExtensions.html#Env_Commun_ClaimsPrincipalExtensions_GetUserToken_System_Security_Claims_ClaimsPrincipal_
+  commentId: M:Env.Commun.ClaimsPrincipalExtensions.GetUserToken(System.Security.Claims.ClaimsPrincipal)
+  fullName: Env.Commun.ClaimsPrincipalExtensions.GetUserToken(System.Security.Claims.ClaimsPrincipal)
+  nameWithType: ClaimsPrincipalExtensions.GetUserToken(ClaimsPrincipal)
+- uid: Env.Commun.ClaimsPrincipalExtensions.GetUserToken*
+  name: GetUserToken
+  href: reference/Env.Commun.ClaimsPrincipalExtensions.html#Env_Commun_ClaimsPrincipalExtensions_GetUserToken_
+  commentId: Overload:Env.Commun.ClaimsPrincipalExtensions.GetUserToken
+  isSpec: "True"
+  fullName: Env.Commun.ClaimsPrincipalExtensions.GetUserToken
+  nameWithType: ClaimsPrincipalExtensions.GetUserToken
+- uid: Env.Commun.Command
+  name: Command
+  href: reference/Env.Commun.Command.html
+  commentId: T:Env.Commun.Command
+  fullName: Env.Commun.Command
+  nameWithType: Command
+- uid: Env.Commun.Command.#ctor
+  name: Command()
+  href: reference/Env.Commun.Command.html#Env_Commun_Command__ctor
+  commentId: M:Env.Commun.Command.#ctor
+  fullName: Env.Commun.Command.Command()
+  nameWithType: Command.Command()
+- uid: Env.Commun.Command.#ctor*
+  name: Command
+  href: reference/Env.Commun.Command.html#Env_Commun_Command__ctor_
+  commentId: Overload:Env.Commun.Command.#ctor
+  isSpec: "True"
+  fullName: Env.Commun.Command.Command
+  nameWithType: Command.Command
+- uid: Env.Commun.Command.EstValide
+  name: EstValide()
+  href: reference/Env.Commun.Command.html#Env_Commun_Command_EstValide
+  commentId: M:Env.Commun.Command.EstValide
+  fullName: Env.Commun.Command.EstValide()
+  nameWithType: Command.EstValide()
+- uid: Env.Commun.Command.EstValide*
+  name: EstValide
+  href: reference/Env.Commun.Command.html#Env_Commun_Command_EstValide_
+  commentId: Overload:Env.Commun.Command.EstValide
+  isSpec: "True"
+  fullName: Env.Commun.Command.EstValide
+  nameWithType: Command.EstValide
+- uid: Env.Commun.Command.Timestamp
+  name: Timestamp
+  href: reference/Env.Commun.Command.html#Env_Commun_Command_Timestamp
+  commentId: P:Env.Commun.Command.Timestamp
+  fullName: Env.Commun.Command.Timestamp
+  nameWithType: Command.Timestamp
+- uid: Env.Commun.Command.Timestamp*
+  name: Timestamp
+  href: reference/Env.Commun.Command.html#Env_Commun_Command_Timestamp_
+  commentId: Overload:Env.Commun.Command.Timestamp
+  isSpec: "True"
+  fullName: Env.Commun.Command.Timestamp
+  nameWithType: Command.Timestamp
+- uid: Env.Commun.Command.ValidationResult
+  name: ValidationResult
+  href: reference/Env.Commun.Command.html#Env_Commun_Command_ValidationResult
+  commentId: P:Env.Commun.Command.ValidationResult
+  fullName: Env.Commun.Command.ValidationResult
+  nameWithType: Command.ValidationResult
+- uid: Env.Commun.Command.ValidationResult*
+  name: ValidationResult
+  href: reference/Env.Commun.Command.html#Env_Commun_Command_ValidationResult_
+  commentId: Overload:Env.Commun.Command.ValidationResult
+  isSpec: "True"
+  fullName: Env.Commun.Command.ValidationResult
+  nameWithType: Command.ValidationResult
+- uid: Env.Commun.ConfigurationExtensions
+  name: ConfigurationExtensions
+  href: reference/Env.Commun.ConfigurationExtensions.html
+  commentId: T:Env.Commun.ConfigurationExtensions
+  fullName: Env.Commun.ConfigurationExtensions
+  nameWithType: ConfigurationExtensions
+- uid: Env.Commun.ConfigurationExtensions.GetMessageQueueConnection(Microsoft.Extensions.Configuration.IConfiguration,System.String)
+  name: GetMessageQueueConnection(IConfiguration, String)
+  href: reference/Env.Commun.ConfigurationExtensions.html#Env_Commun_ConfigurationExtensions_GetMessageQueueConnection_Microsoft_Extensions_Configuration_IConfiguration_System_String_
+  commentId: M:Env.Commun.ConfigurationExtensions.GetMessageQueueConnection(Microsoft.Extensions.Configuration.IConfiguration,System.String)
+  fullName: Env.Commun.ConfigurationExtensions.GetMessageQueueConnection(Microsoft.Extensions.Configuration.IConfiguration, System.String)
+  nameWithType: ConfigurationExtensions.GetMessageQueueConnection(IConfiguration, String)
+- uid: Env.Commun.ConfigurationExtensions.GetMessageQueueConnection*
+  name: GetMessageQueueConnection
+  href: reference/Env.Commun.ConfigurationExtensions.html#Env_Commun_ConfigurationExtensions_GetMessageQueueConnection_
+  commentId: Overload:Env.Commun.ConfigurationExtensions.GetMessageQueueConnection
+  isSpec: "True"
+  fullName: Env.Commun.ConfigurationExtensions.GetMessageQueueConnection
+  nameWithType: ConfigurationExtensions.GetMessageQueueConnection
+- uid: Env.Commun.ContrainteClaimFilter
+  name: ContrainteClaimFilter
+  href: reference/Env.Commun.ContrainteClaimFilter.html
+  commentId: T:Env.Commun.ContrainteClaimFilter
+  fullName: Env.Commun.ContrainteClaimFilter
+  nameWithType: ContrainteClaimFilter
+- uid: Env.Commun.ContrainteClaimFilter.#ctor(System.Security.Claims.Claim)
+  name: ContrainteClaimFilter(Claim)
+  href: reference/Env.Commun.ContrainteClaimFilter.html#Env_Commun_ContrainteClaimFilter__ctor_System_Security_Claims_Claim_
+  commentId: M:Env.Commun.ContrainteClaimFilter.#ctor(System.Security.Claims.Claim)
+  fullName: Env.Commun.ContrainteClaimFilter.ContrainteClaimFilter(System.Security.Claims.Claim)
+  nameWithType: ContrainteClaimFilter.ContrainteClaimFilter(Claim)
+- uid: Env.Commun.ContrainteClaimFilter.#ctor*
+  name: ContrainteClaimFilter
+  href: reference/Env.Commun.ContrainteClaimFilter.html#Env_Commun_ContrainteClaimFilter__ctor_
+  commentId: Overload:Env.Commun.ContrainteClaimFilter.#ctor
+  isSpec: "True"
+  fullName: Env.Commun.ContrainteClaimFilter.ContrainteClaimFilter
+  nameWithType: ContrainteClaimFilter.ContrainteClaimFilter
+- uid: Env.Commun.ContrainteClaimFilter.OnAuthorization(Microsoft.AspNetCore.Mvc.Filters.AuthorizationFilterContext)
+  name: OnAuthorization(AuthorizationFilterContext)
+  href: reference/Env.Commun.ContrainteClaimFilter.html#Env_Commun_ContrainteClaimFilter_OnAuthorization_Microsoft_AspNetCore_Mvc_Filters_AuthorizationFilterContext_
+  commentId: M:Env.Commun.ContrainteClaimFilter.OnAuthorization(Microsoft.AspNetCore.Mvc.Filters.AuthorizationFilterContext)
+  fullName: Env.Commun.ContrainteClaimFilter.OnAuthorization(Microsoft.AspNetCore.Mvc.Filters.AuthorizationFilterContext)
+  nameWithType: ContrainteClaimFilter.OnAuthorization(AuthorizationFilterContext)
+- uid: Env.Commun.ContrainteClaimFilter.OnAuthorization*
+  name: OnAuthorization
+  href: reference/Env.Commun.ContrainteClaimFilter.html#Env_Commun_ContrainteClaimFilter_OnAuthorization_
+  commentId: Overload:Env.Commun.ContrainteClaimFilter.OnAuthorization
+  isSpec: "True"
+  fullName: Env.Commun.ContrainteClaimFilter.OnAuthorization
+  nameWithType: ContrainteClaimFilter.OnAuthorization
 - uid: Env.Commun.Core
   name: Env.Commun.Core
   href: reference/Env.Commun.Core.html
@@ -1154,6 +1514,44 @@ references:
   isSpec: "True"
   fullName: Env.Commun.Core.StringUtils.SeulementNumero
   nameWithType: StringUtils.SeulementNumero
+- uid: Env.Commun.CustomAuthorization
+  name: CustomAuthorization
+  href: reference/Env.Commun.CustomAuthorization.html
+  commentId: T:Env.Commun.CustomAuthorization
+  fullName: Env.Commun.CustomAuthorization
+  nameWithType: CustomAuthorization
+- uid: Env.Commun.CustomAuthorization.ValiderClaimsUtilisateurs(Microsoft.AspNetCore.Http.HttpContext,System.String,System.String)
+  name: ValiderClaimsUtilisateurs(HttpContext, String, String)
+  href: reference/Env.Commun.CustomAuthorization.html#Env_Commun_CustomAuthorization_ValiderClaimsUtilisateurs_Microsoft_AspNetCore_Http_HttpContext_System_String_System_String_
+  commentId: M:Env.Commun.CustomAuthorization.ValiderClaimsUtilisateurs(Microsoft.AspNetCore.Http.HttpContext,System.String,System.String)
+  fullName: Env.Commun.CustomAuthorization.ValiderClaimsUtilisateurs(Microsoft.AspNetCore.Http.HttpContext, System.String, System.String)
+  nameWithType: CustomAuthorization.ValiderClaimsUtilisateurs(HttpContext, String, String)
+- uid: Env.Commun.CustomAuthorization.ValiderClaimsUtilisateurs*
+  name: ValiderClaimsUtilisateurs
+  href: reference/Env.Commun.CustomAuthorization.html#Env_Commun_CustomAuthorization_ValiderClaimsUtilisateurs_
+  commentId: Overload:Env.Commun.CustomAuthorization.ValiderClaimsUtilisateurs
+  isSpec: "True"
+  fullName: Env.Commun.CustomAuthorization.ValiderClaimsUtilisateurs
+  nameWithType: CustomAuthorization.ValiderClaimsUtilisateurs
+- uid: Env.Commun.DependencyInjectionExtensions
+  name: DependencyInjectionExtensions
+  href: reference/Env.Commun.DependencyInjectionExtensions.html
+  commentId: T:Env.Commun.DependencyInjectionExtensions
+  fullName: Env.Commun.DependencyInjectionExtensions
+  nameWithType: DependencyInjectionExtensions
+- uid: Env.Commun.DependencyInjectionExtensions.AddMessageBus(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.String)
+  name: AddMessageBus(IServiceCollection, String)
+  href: reference/Env.Commun.DependencyInjectionExtensions.html#Env_Commun_DependencyInjectionExtensions_AddMessageBus_Microsoft_Extensions_DependencyInjection_IServiceCollection_System_String_
+  commentId: M:Env.Commun.DependencyInjectionExtensions.AddMessageBus(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.String)
+  fullName: Env.Commun.DependencyInjectionExtensions.AddMessageBus(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.String)
+  nameWithType: DependencyInjectionExtensions.AddMessageBus(IServiceCollection, String)
+- uid: Env.Commun.DependencyInjectionExtensions.AddMessageBus*
+  name: AddMessageBus
+  href: reference/Env.Commun.DependencyInjectionExtensions.html#Env_Commun_DependencyInjectionExtensions_AddMessageBus_
+  commentId: Overload:Env.Commun.DependencyInjectionExtensions.AddMessageBus
+  isSpec: "True"
+  fullName: Env.Commun.DependencyInjectionExtensions.AddMessageBus
+  nameWithType: DependencyInjectionExtensions.AddMessageBus
 - uid: Env.Commun.Domaine
   name: Env.Commun.Domaine
   href: reference/Env.Commun.Domaine.html
@@ -1686,6 +2084,729 @@ references:
   isSpec: "True"
   fullName: Env.Commun.Donnees.IUnitOfWork.Commit
   nameWithType: IUnitOfWork.Commit
+- uid: Env.Commun.Evenement
+  name: Evenement
+  href: reference/Env.Commun.Evenement.html
+  commentId: T:Env.Commun.Evenement
+  fullName: Env.Commun.Evenement
+  nameWithType: Evenement
+- uid: Env.Commun.Evenement.#ctor
+  name: Evenement()
+  href: reference/Env.Commun.Evenement.html#Env_Commun_Evenement__ctor
+  commentId: M:Env.Commun.Evenement.#ctor
+  fullName: Env.Commun.Evenement.Evenement()
+  nameWithType: Evenement.Evenement()
+- uid: Env.Commun.Evenement.#ctor*
+  name: Evenement
+  href: reference/Env.Commun.Evenement.html#Env_Commun_Evenement__ctor_
+  commentId: Overload:Env.Commun.Evenement.#ctor
+  isSpec: "True"
+  fullName: Env.Commun.Evenement.Evenement
+  nameWithType: Evenement.Evenement
+- uid: Env.Commun.Evenement.Timestamp
+  name: Timestamp
+  href: reference/Env.Commun.Evenement.html#Env_Commun_Evenement_Timestamp
+  commentId: P:Env.Commun.Evenement.Timestamp
+  fullName: Env.Commun.Evenement.Timestamp
+  nameWithType: Evenement.Timestamp
+- uid: Env.Commun.Evenement.Timestamp*
+  name: Timestamp
+  href: reference/Env.Commun.Evenement.html#Env_Commun_Evenement_Timestamp_
+  commentId: Overload:Env.Commun.Evenement.Timestamp
+  isSpec: "True"
+  fullName: Env.Commun.Evenement.Timestamp
+  nameWithType: Evenement.Timestamp
+- uid: Env.Commun.IAspNetUser
+  name: IAspNetUser
+  href: reference/Env.Commun.IAspNetUser.html
+  commentId: T:Env.Commun.IAspNetUser
+  fullName: Env.Commun.IAspNetUser
+  nameWithType: IAspNetUser
+- uid: Env.Commun.IAspNetUser.EstaAutenticado
+  name: EstaAutenticado()
+  href: reference/Env.Commun.IAspNetUser.html#Env_Commun_IAspNetUser_EstaAutenticado
+  commentId: M:Env.Commun.IAspNetUser.EstaAutenticado
+  fullName: Env.Commun.IAspNetUser.EstaAutenticado()
+  nameWithType: IAspNetUser.EstaAutenticado()
+- uid: Env.Commun.IAspNetUser.EstaAutenticado*
+  name: EstaAutenticado
+  href: reference/Env.Commun.IAspNetUser.html#Env_Commun_IAspNetUser_EstaAutenticado_
+  commentId: Overload:Env.Commun.IAspNetUser.EstaAutenticado
+  isSpec: "True"
+  fullName: Env.Commun.IAspNetUser.EstaAutenticado
+  nameWithType: IAspNetUser.EstaAutenticado
+- uid: Env.Commun.IAspNetUser.Name
+  name: Name
+  href: reference/Env.Commun.IAspNetUser.html#Env_Commun_IAspNetUser_Name
+  commentId: P:Env.Commun.IAspNetUser.Name
+  fullName: Env.Commun.IAspNetUser.Name
+  nameWithType: IAspNetUser.Name
+- uid: Env.Commun.IAspNetUser.Name*
+  name: Name
+  href: reference/Env.Commun.IAspNetUser.html#Env_Commun_IAspNetUser_Name_
+  commentId: Overload:Env.Commun.IAspNetUser.Name
+  isSpec: "True"
+  fullName: Env.Commun.IAspNetUser.Name
+  nameWithType: IAspNetUser.Name
+- uid: Env.Commun.IAspNetUser.ObterClaims
+  name: ObterClaims()
+  href: reference/Env.Commun.IAspNetUser.html#Env_Commun_IAspNetUser_ObterClaims
+  commentId: M:Env.Commun.IAspNetUser.ObterClaims
+  fullName: Env.Commun.IAspNetUser.ObterClaims()
+  nameWithType: IAspNetUser.ObterClaims()
+- uid: Env.Commun.IAspNetUser.ObterClaims*
+  name: ObterClaims
+  href: reference/Env.Commun.IAspNetUser.html#Env_Commun_IAspNetUser_ObterClaims_
+  commentId: Overload:Env.Commun.IAspNetUser.ObterClaims
+  isSpec: "True"
+  fullName: Env.Commun.IAspNetUser.ObterClaims
+  nameWithType: IAspNetUser.ObterClaims
+- uid: Env.Commun.IAspNetUser.ObterHttpContext
+  name: ObterHttpContext()
+  href: reference/Env.Commun.IAspNetUser.html#Env_Commun_IAspNetUser_ObterHttpContext
+  commentId: M:Env.Commun.IAspNetUser.ObterHttpContext
+  fullName: Env.Commun.IAspNetUser.ObterHttpContext()
+  nameWithType: IAspNetUser.ObterHttpContext()
+- uid: Env.Commun.IAspNetUser.ObterHttpContext*
+  name: ObterHttpContext
+  href: reference/Env.Commun.IAspNetUser.html#Env_Commun_IAspNetUser_ObterHttpContext_
+  commentId: Overload:Env.Commun.IAspNetUser.ObterHttpContext
+  isSpec: "True"
+  fullName: Env.Commun.IAspNetUser.ObterHttpContext
+  nameWithType: IAspNetUser.ObterHttpContext
+- uid: Env.Commun.IAspNetUser.ObterUserEmail
+  name: ObterUserEmail()
+  href: reference/Env.Commun.IAspNetUser.html#Env_Commun_IAspNetUser_ObterUserEmail
+  commentId: M:Env.Commun.IAspNetUser.ObterUserEmail
+  fullName: Env.Commun.IAspNetUser.ObterUserEmail()
+  nameWithType: IAspNetUser.ObterUserEmail()
+- uid: Env.Commun.IAspNetUser.ObterUserEmail*
+  name: ObterUserEmail
+  href: reference/Env.Commun.IAspNetUser.html#Env_Commun_IAspNetUser_ObterUserEmail_
+  commentId: Overload:Env.Commun.IAspNetUser.ObterUserEmail
+  isSpec: "True"
+  fullName: Env.Commun.IAspNetUser.ObterUserEmail
+  nameWithType: IAspNetUser.ObterUserEmail
+- uid: Env.Commun.IAspNetUser.ObterUserId
+  name: ObterUserId()
+  href: reference/Env.Commun.IAspNetUser.html#Env_Commun_IAspNetUser_ObterUserId
+  commentId: M:Env.Commun.IAspNetUser.ObterUserId
+  fullName: Env.Commun.IAspNetUser.ObterUserId()
+  nameWithType: IAspNetUser.ObterUserId()
+- uid: Env.Commun.IAspNetUser.ObterUserId*
+  name: ObterUserId
+  href: reference/Env.Commun.IAspNetUser.html#Env_Commun_IAspNetUser_ObterUserId_
+  commentId: Overload:Env.Commun.IAspNetUser.ObterUserId
+  isSpec: "True"
+  fullName: Env.Commun.IAspNetUser.ObterUserId
+  nameWithType: IAspNetUser.ObterUserId
+- uid: Env.Commun.IAspNetUser.ObterUserToken
+  name: ObterUserToken()
+  href: reference/Env.Commun.IAspNetUser.html#Env_Commun_IAspNetUser_ObterUserToken
+  commentId: M:Env.Commun.IAspNetUser.ObterUserToken
+  fullName: Env.Commun.IAspNetUser.ObterUserToken()
+  nameWithType: IAspNetUser.ObterUserToken()
+- uid: Env.Commun.IAspNetUser.ObterUserToken*
+  name: ObterUserToken
+  href: reference/Env.Commun.IAspNetUser.html#Env_Commun_IAspNetUser_ObterUserToken_
+  commentId: Overload:Env.Commun.IAspNetUser.ObterUserToken
+  isSpec: "True"
+  fullName: Env.Commun.IAspNetUser.ObterUserToken
+  nameWithType: IAspNetUser.ObterUserToken
+- uid: Env.Commun.IAspNetUser.PossuiRole(System.String)
+  name: PossuiRole(String)
+  href: reference/Env.Commun.IAspNetUser.html#Env_Commun_IAspNetUser_PossuiRole_System_String_
+  commentId: M:Env.Commun.IAspNetUser.PossuiRole(System.String)
+  fullName: Env.Commun.IAspNetUser.PossuiRole(System.String)
+  nameWithType: IAspNetUser.PossuiRole(String)
+- uid: Env.Commun.IAspNetUser.PossuiRole*
+  name: PossuiRole
+  href: reference/Env.Commun.IAspNetUser.html#Env_Commun_IAspNetUser_PossuiRole_
+  commentId: Overload:Env.Commun.IAspNetUser.PossuiRole
+  isSpec: "True"
+  fullName: Env.Commun.IAspNetUser.PossuiRole
+  nameWithType: IAspNetUser.PossuiRole
+- uid: Env.Commun.IMediatorHandler
+  name: IMediatorHandler
+  href: reference/Env.Commun.IMediatorHandler.html
+  commentId: T:Env.Commun.IMediatorHandler
+  fullName: Env.Commun.IMediatorHandler
+  nameWithType: IMediatorHandler
+- uid: Env.Commun.IMediatorHandler.PublierEvenement*
+  name: PublierEvenement
+  href: reference/Env.Commun.IMediatorHandler.html#Env_Commun_IMediatorHandler_PublierEvenement_
+  commentId: Overload:Env.Commun.IMediatorHandler.PublierEvenement
+  isSpec: "True"
+  fullName: Env.Commun.IMediatorHandler.PublierEvenement
+  nameWithType: IMediatorHandler.PublierEvenement
+- uid: Env.Commun.IMediatorHandler.PublierEvenement``1(``0)
+  name: PublierEvenement<T>(T)
+  href: reference/Env.Commun.IMediatorHandler.html#Env_Commun_IMediatorHandler_PublierEvenement__1___0_
+  commentId: M:Env.Commun.IMediatorHandler.PublierEvenement``1(``0)
+  name.vb: PublierEvenement(Of T)(T)
+  fullName: Env.Commun.IMediatorHandler.PublierEvenement<T>(T)
+  fullName.vb: Env.Commun.IMediatorHandler.PublierEvenement(Of T)(T)
+  nameWithType: IMediatorHandler.PublierEvenement<T>(T)
+  nameWithType.vb: IMediatorHandler.PublierEvenement(Of T)(T)
+- uid: Env.Commun.IMediatorHandler.SoumettreCommand*
+  name: SoumettreCommand
+  href: reference/Env.Commun.IMediatorHandler.html#Env_Commun_IMediatorHandler_SoumettreCommand_
+  commentId: Overload:Env.Commun.IMediatorHandler.SoumettreCommand
+  isSpec: "True"
+  fullName: Env.Commun.IMediatorHandler.SoumettreCommand
+  nameWithType: IMediatorHandler.SoumettreCommand
+- uid: Env.Commun.IMediatorHandler.SoumettreCommand``1(``0)
+  name: SoumettreCommand<T>(T)
+  href: reference/Env.Commun.IMediatorHandler.html#Env_Commun_IMediatorHandler_SoumettreCommand__1___0_
+  commentId: M:Env.Commun.IMediatorHandler.SoumettreCommand``1(``0)
+  name.vb: SoumettreCommand(Of T)(T)
+  fullName: Env.Commun.IMediatorHandler.SoumettreCommand<T>(T)
+  fullName.vb: Env.Commun.IMediatorHandler.SoumettreCommand(Of T)(T)
+  nameWithType: IMediatorHandler.SoumettreCommand<T>(T)
+  nameWithType.vb: IMediatorHandler.SoumettreCommand(Of T)(T)
+- uid: Env.Commun.IMessageBus
+  name: IMessageBus
+  href: reference/Env.Commun.IMessageBus.html
+  commentId: T:Env.Commun.IMessageBus
+  fullName: Env.Commun.IMessageBus
+  nameWithType: IMessageBus
+- uid: Env.Commun.IMessageBus.AdvancedBus
+  name: AdvancedBus
+  href: reference/Env.Commun.IMessageBus.html#Env_Commun_IMessageBus_AdvancedBus
+  commentId: P:Env.Commun.IMessageBus.AdvancedBus
+  fullName: Env.Commun.IMessageBus.AdvancedBus
+  nameWithType: IMessageBus.AdvancedBus
+- uid: Env.Commun.IMessageBus.AdvancedBus*
+  name: AdvancedBus
+  href: reference/Env.Commun.IMessageBus.html#Env_Commun_IMessageBus_AdvancedBus_
+  commentId: Overload:Env.Commun.IMessageBus.AdvancedBus
+  isSpec: "True"
+  fullName: Env.Commun.IMessageBus.AdvancedBus
+  nameWithType: IMessageBus.AdvancedBus
+- uid: Env.Commun.IMessageBus.IsConnected
+  name: IsConnected
+  href: reference/Env.Commun.IMessageBus.html#Env_Commun_IMessageBus_IsConnected
+  commentId: P:Env.Commun.IMessageBus.IsConnected
+  fullName: Env.Commun.IMessageBus.IsConnected
+  nameWithType: IMessageBus.IsConnected
+- uid: Env.Commun.IMessageBus.IsConnected*
+  name: IsConnected
+  href: reference/Env.Commun.IMessageBus.html#Env_Commun_IMessageBus_IsConnected_
+  commentId: Overload:Env.Commun.IMessageBus.IsConnected
+  isSpec: "True"
+  fullName: Env.Commun.IMessageBus.IsConnected
+  nameWithType: IMessageBus.IsConnected
+- uid: Env.Commun.IMessageBus.Publish*
+  name: Publish
+  href: reference/Env.Commun.IMessageBus.html#Env_Commun_IMessageBus_Publish_
+  commentId: Overload:Env.Commun.IMessageBus.Publish
+  isSpec: "True"
+  fullName: Env.Commun.IMessageBus.Publish
+  nameWithType: IMessageBus.Publish
+- uid: Env.Commun.IMessageBus.Publish``1(``0)
+  name: Publish<T>(T)
+  href: reference/Env.Commun.IMessageBus.html#Env_Commun_IMessageBus_Publish__1___0_
+  commentId: M:Env.Commun.IMessageBus.Publish``1(``0)
+  name.vb: Publish(Of T)(T)
+  fullName: Env.Commun.IMessageBus.Publish<T>(T)
+  fullName.vb: Env.Commun.IMessageBus.Publish(Of T)(T)
+  nameWithType: IMessageBus.Publish<T>(T)
+  nameWithType.vb: IMessageBus.Publish(Of T)(T)
+- uid: Env.Commun.IMessageBus.PublishAsync*
+  name: PublishAsync
+  href: reference/Env.Commun.IMessageBus.html#Env_Commun_IMessageBus_PublishAsync_
+  commentId: Overload:Env.Commun.IMessageBus.PublishAsync
+  isSpec: "True"
+  fullName: Env.Commun.IMessageBus.PublishAsync
+  nameWithType: IMessageBus.PublishAsync
+- uid: Env.Commun.IMessageBus.PublishAsync``1(``0)
+  name: PublishAsync<T>(T)
+  href: reference/Env.Commun.IMessageBus.html#Env_Commun_IMessageBus_PublishAsync__1___0_
+  commentId: M:Env.Commun.IMessageBus.PublishAsync``1(``0)
+  name.vb: PublishAsync(Of T)(T)
+  fullName: Env.Commun.IMessageBus.PublishAsync<T>(T)
+  fullName.vb: Env.Commun.IMessageBus.PublishAsync(Of T)(T)
+  nameWithType: IMessageBus.PublishAsync<T>(T)
+  nameWithType.vb: IMessageBus.PublishAsync(Of T)(T)
+- uid: Env.Commun.IMessageBus.Request*
+  name: Request
+  href: reference/Env.Commun.IMessageBus.html#Env_Commun_IMessageBus_Request_
+  commentId: Overload:Env.Commun.IMessageBus.Request
+  isSpec: "True"
+  fullName: Env.Commun.IMessageBus.Request
+  nameWithType: IMessageBus.Request
+- uid: Env.Commun.IMessageBus.Request``2(``0)
+  name: Request<TRequest, TResponse>(TRequest)
+  href: reference/Env.Commun.IMessageBus.html#Env_Commun_IMessageBus_Request__2___0_
+  commentId: M:Env.Commun.IMessageBus.Request``2(``0)
+  name.vb: Request(Of TRequest, TResponse)(TRequest)
+  fullName: Env.Commun.IMessageBus.Request<TRequest, TResponse>(TRequest)
+  fullName.vb: Env.Commun.IMessageBus.Request(Of TRequest, TResponse)(TRequest)
+  nameWithType: IMessageBus.Request<TRequest, TResponse>(TRequest)
+  nameWithType.vb: IMessageBus.Request(Of TRequest, TResponse)(TRequest)
+- uid: Env.Commun.IMessageBus.RequestAsync*
+  name: RequestAsync
+  href: reference/Env.Commun.IMessageBus.html#Env_Commun_IMessageBus_RequestAsync_
+  commentId: Overload:Env.Commun.IMessageBus.RequestAsync
+  isSpec: "True"
+  fullName: Env.Commun.IMessageBus.RequestAsync
+  nameWithType: IMessageBus.RequestAsync
+- uid: Env.Commun.IMessageBus.RequestAsync``2(``0)
+  name: RequestAsync<TRequest, TResponse>(TRequest)
+  href: reference/Env.Commun.IMessageBus.html#Env_Commun_IMessageBus_RequestAsync__2___0_
+  commentId: M:Env.Commun.IMessageBus.RequestAsync``2(``0)
+  name.vb: RequestAsync(Of TRequest, TResponse)(TRequest)
+  fullName: Env.Commun.IMessageBus.RequestAsync<TRequest, TResponse>(TRequest)
+  fullName.vb: Env.Commun.IMessageBus.RequestAsync(Of TRequest, TResponse)(TRequest)
+  nameWithType: IMessageBus.RequestAsync<TRequest, TResponse>(TRequest)
+  nameWithType.vb: IMessageBus.RequestAsync(Of TRequest, TResponse)(TRequest)
+- uid: Env.Commun.IMessageBus.Respond*
+  name: Respond
+  href: reference/Env.Commun.IMessageBus.html#Env_Commun_IMessageBus_Respond_
+  commentId: Overload:Env.Commun.IMessageBus.Respond
+  isSpec: "True"
+  fullName: Env.Commun.IMessageBus.Respond
+  nameWithType: IMessageBus.Respond
+- uid: Env.Commun.IMessageBus.Respond``2(System.Func{``0,``1})
+  name: Respond<TRequest, TResponse>(Func<TRequest, TResponse>)
+  href: reference/Env.Commun.IMessageBus.html#Env_Commun_IMessageBus_Respond__2_System_Func___0___1__
+  commentId: M:Env.Commun.IMessageBus.Respond``2(System.Func{``0,``1})
+  name.vb: Respond(Of TRequest, TResponse)(Func(Of TRequest, TResponse))
+  fullName: Env.Commun.IMessageBus.Respond<TRequest, TResponse>(System.Func<TRequest, TResponse>)
+  fullName.vb: Env.Commun.IMessageBus.Respond(Of TRequest, TResponse)(System.Func(Of TRequest, TResponse))
+  nameWithType: IMessageBus.Respond<TRequest, TResponse>(Func<TRequest, TResponse>)
+  nameWithType.vb: IMessageBus.Respond(Of TRequest, TResponse)(Func(Of TRequest, TResponse))
+- uid: Env.Commun.IMessageBus.Subscribe*
+  name: Subscribe
+  href: reference/Env.Commun.IMessageBus.html#Env_Commun_IMessageBus_Subscribe_
+  commentId: Overload:Env.Commun.IMessageBus.Subscribe
+  isSpec: "True"
+  fullName: Env.Commun.IMessageBus.Subscribe
+  nameWithType: IMessageBus.Subscribe
+- uid: Env.Commun.IMessageBus.Subscribe``1(System.String,System.Action{``0})
+  name: Subscribe<T>(String, Action<T>)
+  href: reference/Env.Commun.IMessageBus.html#Env_Commun_IMessageBus_Subscribe__1_System_String_System_Action___0__
+  commentId: M:Env.Commun.IMessageBus.Subscribe``1(System.String,System.Action{``0})
+  name.vb: Subscribe(Of T)(String, Action(Of T))
+  fullName: Env.Commun.IMessageBus.Subscribe<T>(System.String, System.Action<T>)
+  fullName.vb: Env.Commun.IMessageBus.Subscribe(Of T)(System.String, System.Action(Of T))
+  nameWithType: IMessageBus.Subscribe<T>(String, Action<T>)
+  nameWithType.vb: IMessageBus.Subscribe(Of T)(String, Action(Of T))
+- uid: Env.Commun.IMessageBus.SubscribeAsync*
+  name: SubscribeAsync
+  href: reference/Env.Commun.IMessageBus.html#Env_Commun_IMessageBus_SubscribeAsync_
+  commentId: Overload:Env.Commun.IMessageBus.SubscribeAsync
+  isSpec: "True"
+  fullName: Env.Commun.IMessageBus.SubscribeAsync
+  nameWithType: IMessageBus.SubscribeAsync
+- uid: Env.Commun.IMessageBus.SubscribeAsync``1(System.String,System.Func{``0,System.Threading.Tasks.Task})
+  name: SubscribeAsync<T>(String, Func<T, Task>)
+  href: reference/Env.Commun.IMessageBus.html#Env_Commun_IMessageBus_SubscribeAsync__1_System_String_System_Func___0_System_Threading_Tasks_Task__
+  commentId: M:Env.Commun.IMessageBus.SubscribeAsync``1(System.String,System.Func{``0,System.Threading.Tasks.Task})
+  name.vb: SubscribeAsync(Of T)(String, Func(Of T, Task))
+  fullName: Env.Commun.IMessageBus.SubscribeAsync<T>(System.String, System.Func<T, System.Threading.Tasks.Task>)
+  fullName.vb: Env.Commun.IMessageBus.SubscribeAsync(Of T)(System.String, System.Func(Of T, System.Threading.Tasks.Task))
+  nameWithType: IMessageBus.SubscribeAsync<T>(String, Func<T, Task>)
+  nameWithType.vb: IMessageBus.SubscribeAsync(Of T)(String, Func(Of T, Task))
+- uid: Env.Commun.IntegrationEvenement
+  name: IntegrationEvenement
+  href: reference/Env.Commun.IntegrationEvenement.html
+  commentId: T:Env.Commun.IntegrationEvenement
+  fullName: Env.Commun.IntegrationEvenement
+  nameWithType: IntegrationEvenement
+- uid: Env.Commun.MainController
+  name: MainController
+  href: reference/Env.Commun.MainController.html
+  commentId: T:Env.Commun.MainController
+  fullName: Env.Commun.MainController
+  nameWithType: MainController
+- uid: Env.Commun.MainController.AjouterErreurTraitement(System.String)
+  name: AjouterErreurTraitement(String)
+  href: reference/Env.Commun.MainController.html#Env_Commun_MainController_AjouterErreurTraitement_System_String_
+  commentId: M:Env.Commun.MainController.AjouterErreurTraitement(System.String)
+  fullName: Env.Commun.MainController.AjouterErreurTraitement(System.String)
+  nameWithType: MainController.AjouterErreurTraitement(String)
+- uid: Env.Commun.MainController.AjouterErreurTraitement*
+  name: AjouterErreurTraitement
+  href: reference/Env.Commun.MainController.html#Env_Commun_MainController_AjouterErreurTraitement_
+  commentId: Overload:Env.Commun.MainController.AjouterErreurTraitement
+  isSpec: "True"
+  fullName: Env.Commun.MainController.AjouterErreurTraitement
+  nameWithType: MainController.AjouterErreurTraitement
+- uid: Env.Commun.MainController.CustomResponse(FluentValidation.Results.ValidationResult)
+  name: CustomResponse(ValidationResult)
+  href: reference/Env.Commun.MainController.html#Env_Commun_MainController_CustomResponse_FluentValidation_Results_ValidationResult_
+  commentId: M:Env.Commun.MainController.CustomResponse(FluentValidation.Results.ValidationResult)
+  fullName: Env.Commun.MainController.CustomResponse(FluentValidation.Results.ValidationResult)
+  nameWithType: MainController.CustomResponse(ValidationResult)
+- uid: Env.Commun.MainController.CustomResponse(Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary)
+  name: CustomResponse(ModelStateDictionary)
+  href: reference/Env.Commun.MainController.html#Env_Commun_MainController_CustomResponse_Microsoft_AspNetCore_Mvc_ModelBinding_ModelStateDictionary_
+  commentId: M:Env.Commun.MainController.CustomResponse(Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary)
+  fullName: Env.Commun.MainController.CustomResponse(Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary)
+  nameWithType: MainController.CustomResponse(ModelStateDictionary)
+- uid: Env.Commun.MainController.CustomResponse(System.Object)
+  name: CustomResponse(Object)
+  href: reference/Env.Commun.MainController.html#Env_Commun_MainController_CustomResponse_System_Object_
+  commentId: M:Env.Commun.MainController.CustomResponse(System.Object)
+  fullName: Env.Commun.MainController.CustomResponse(System.Object)
+  nameWithType: MainController.CustomResponse(Object)
+- uid: Env.Commun.MainController.CustomResponse*
+  name: CustomResponse
+  href: reference/Env.Commun.MainController.html#Env_Commun_MainController_CustomResponse_
+  commentId: Overload:Env.Commun.MainController.CustomResponse
+  isSpec: "True"
+  fullName: Env.Commun.MainController.CustomResponse
+  nameWithType: MainController.CustomResponse
+- uid: Env.Commun.MainController.Erreurs
+  name: Erreurs
+  href: reference/Env.Commun.MainController.html#Env_Commun_MainController_Erreurs
+  commentId: F:Env.Commun.MainController.Erreurs
+  fullName: Env.Commun.MainController.Erreurs
+  nameWithType: MainController.Erreurs
+- uid: Env.Commun.MainController.OperationInvalide
+  name: OperationInvalide()
+  href: reference/Env.Commun.MainController.html#Env_Commun_MainController_OperationInvalide
+  commentId: M:Env.Commun.MainController.OperationInvalide
+  fullName: Env.Commun.MainController.OperationInvalide()
+  nameWithType: MainController.OperationInvalide()
+- uid: Env.Commun.MainController.OperationInvalide*
+  name: OperationInvalide
+  href: reference/Env.Commun.MainController.html#Env_Commun_MainController_OperationInvalide_
+  commentId: Overload:Env.Commun.MainController.OperationInvalide
+  isSpec: "True"
+  fullName: Env.Commun.MainController.OperationInvalide
+  nameWithType: MainController.OperationInvalide
+- uid: Env.Commun.MainController.ViderErreursTraitement
+  name: ViderErreursTraitement()
+  href: reference/Env.Commun.MainController.html#Env_Commun_MainController_ViderErreursTraitement
+  commentId: M:Env.Commun.MainController.ViderErreursTraitement
+  fullName: Env.Commun.MainController.ViderErreursTraitement()
+  nameWithType: MainController.ViderErreursTraitement()
+- uid: Env.Commun.MainController.ViderErreursTraitement*
+  name: ViderErreursTraitement
+  href: reference/Env.Commun.MainController.html#Env_Commun_MainController_ViderErreursTraitement_
+  commentId: Overload:Env.Commun.MainController.ViderErreursTraitement
+  isSpec: "True"
+  fullName: Env.Commun.MainController.ViderErreursTraitement
+  nameWithType: MainController.ViderErreursTraitement
+- uid: Env.Commun.MediatorHandler
+  name: MediatorHandler
+  href: reference/Env.Commun.MediatorHandler.html
+  commentId: T:Env.Commun.MediatorHandler
+  fullName: Env.Commun.MediatorHandler
+  nameWithType: MediatorHandler
+- uid: Env.Commun.MediatorHandler.#ctor(MediatR.IMediator)
+  name: MediatorHandler(IMediator)
+  href: reference/Env.Commun.MediatorHandler.html#Env_Commun_MediatorHandler__ctor_MediatR_IMediator_
+  commentId: M:Env.Commun.MediatorHandler.#ctor(MediatR.IMediator)
+  fullName: Env.Commun.MediatorHandler.MediatorHandler(MediatR.IMediator)
+  nameWithType: MediatorHandler.MediatorHandler(IMediator)
+- uid: Env.Commun.MediatorHandler.#ctor*
+  name: MediatorHandler
+  href: reference/Env.Commun.MediatorHandler.html#Env_Commun_MediatorHandler__ctor_
+  commentId: Overload:Env.Commun.MediatorHandler.#ctor
+  isSpec: "True"
+  fullName: Env.Commun.MediatorHandler.MediatorHandler
+  nameWithType: MediatorHandler.MediatorHandler
+- uid: Env.Commun.MediatorHandler.PublierEvenement*
+  name: PublierEvenement
+  href: reference/Env.Commun.MediatorHandler.html#Env_Commun_MediatorHandler_PublierEvenement_
+  commentId: Overload:Env.Commun.MediatorHandler.PublierEvenement
+  isSpec: "True"
+  fullName: Env.Commun.MediatorHandler.PublierEvenement
+  nameWithType: MediatorHandler.PublierEvenement
+- uid: Env.Commun.MediatorHandler.PublierEvenement``1(``0)
+  name: PublierEvenement<T>(T)
+  href: reference/Env.Commun.MediatorHandler.html#Env_Commun_MediatorHandler_PublierEvenement__1___0_
+  commentId: M:Env.Commun.MediatorHandler.PublierEvenement``1(``0)
+  name.vb: PublierEvenement(Of T)(T)
+  fullName: Env.Commun.MediatorHandler.PublierEvenement<T>(T)
+  fullName.vb: Env.Commun.MediatorHandler.PublierEvenement(Of T)(T)
+  nameWithType: MediatorHandler.PublierEvenement<T>(T)
+  nameWithType.vb: MediatorHandler.PublierEvenement(Of T)(T)
+- uid: Env.Commun.MediatorHandler.SoumettreCommand*
+  name: SoumettreCommand
+  href: reference/Env.Commun.MediatorHandler.html#Env_Commun_MediatorHandler_SoumettreCommand_
+  commentId: Overload:Env.Commun.MediatorHandler.SoumettreCommand
+  isSpec: "True"
+  fullName: Env.Commun.MediatorHandler.SoumettreCommand
+  nameWithType: MediatorHandler.SoumettreCommand
+- uid: Env.Commun.MediatorHandler.SoumettreCommand``1(``0)
+  name: SoumettreCommand<T>(T)
+  href: reference/Env.Commun.MediatorHandler.html#Env_Commun_MediatorHandler_SoumettreCommand__1___0_
+  commentId: M:Env.Commun.MediatorHandler.SoumettreCommand``1(``0)
+  name.vb: SoumettreCommand(Of T)(T)
+  fullName: Env.Commun.MediatorHandler.SoumettreCommand<T>(T)
+  fullName.vb: Env.Commun.MediatorHandler.SoumettreCommand(Of T)(T)
+  nameWithType: MediatorHandler.SoumettreCommand<T>(T)
+  nameWithType.vb: MediatorHandler.SoumettreCommand(Of T)(T)
+- uid: Env.Commun.Message
+  name: Message
+  href: reference/Env.Commun.Message.html
+  commentId: T:Env.Commun.Message
+  fullName: Env.Commun.Message
+  nameWithType: Message
+- uid: Env.Commun.Message.#ctor
+  name: Message()
+  href: reference/Env.Commun.Message.html#Env_Commun_Message__ctor
+  commentId: M:Env.Commun.Message.#ctor
+  fullName: Env.Commun.Message.Message()
+  nameWithType: Message.Message()
+- uid: Env.Commun.Message.#ctor*
+  name: Message
+  href: reference/Env.Commun.Message.html#Env_Commun_Message__ctor_
+  commentId: Overload:Env.Commun.Message.#ctor
+  isSpec: "True"
+  fullName: Env.Commun.Message.Message
+  nameWithType: Message.Message
+- uid: Env.Commun.Message.AggregateId
+  name: AggregateId
+  href: reference/Env.Commun.Message.html#Env_Commun_Message_AggregateId
+  commentId: P:Env.Commun.Message.AggregateId
+  fullName: Env.Commun.Message.AggregateId
+  nameWithType: Message.AggregateId
+- uid: Env.Commun.Message.AggregateId*
+  name: AggregateId
+  href: reference/Env.Commun.Message.html#Env_Commun_Message_AggregateId_
+  commentId: Overload:Env.Commun.Message.AggregateId
+  isSpec: "True"
+  fullName: Env.Commun.Message.AggregateId
+  nameWithType: Message.AggregateId
+- uid: Env.Commun.Message.MessageType
+  name: MessageType
+  href: reference/Env.Commun.Message.html#Env_Commun_Message_MessageType
+  commentId: P:Env.Commun.Message.MessageType
+  fullName: Env.Commun.Message.MessageType
+  nameWithType: Message.MessageType
+- uid: Env.Commun.Message.MessageType*
+  name: MessageType
+  href: reference/Env.Commun.Message.html#Env_Commun_Message_MessageType_
+  commentId: Overload:Env.Commun.Message.MessageType
+  isSpec: "True"
+  fullName: Env.Commun.Message.MessageType
+  nameWithType: Message.MessageType
+- uid: Env.Commun.MessageBus
+  name: MessageBus
+  href: reference/Env.Commun.MessageBus.html
+  commentId: T:Env.Commun.MessageBus
+  fullName: Env.Commun.MessageBus
+  nameWithType: MessageBus
+- uid: Env.Commun.MessageBus.#ctor(System.String)
+  name: MessageBus(String)
+  href: reference/Env.Commun.MessageBus.html#Env_Commun_MessageBus__ctor_System_String_
+  commentId: M:Env.Commun.MessageBus.#ctor(System.String)
+  fullName: Env.Commun.MessageBus.MessageBus(System.String)
+  nameWithType: MessageBus.MessageBus(String)
+- uid: Env.Commun.MessageBus.#ctor*
+  name: MessageBus
+  href: reference/Env.Commun.MessageBus.html#Env_Commun_MessageBus__ctor_
+  commentId: Overload:Env.Commun.MessageBus.#ctor
+  isSpec: "True"
+  fullName: Env.Commun.MessageBus.MessageBus
+  nameWithType: MessageBus.MessageBus
+- uid: Env.Commun.MessageBus.AdvancedBus
+  name: AdvancedBus
+  href: reference/Env.Commun.MessageBus.html#Env_Commun_MessageBus_AdvancedBus
+  commentId: P:Env.Commun.MessageBus.AdvancedBus
+  fullName: Env.Commun.MessageBus.AdvancedBus
+  nameWithType: MessageBus.AdvancedBus
+- uid: Env.Commun.MessageBus.AdvancedBus*
+  name: AdvancedBus
+  href: reference/Env.Commun.MessageBus.html#Env_Commun_MessageBus_AdvancedBus_
+  commentId: Overload:Env.Commun.MessageBus.AdvancedBus
+  isSpec: "True"
+  fullName: Env.Commun.MessageBus.AdvancedBus
+  nameWithType: MessageBus.AdvancedBus
+- uid: Env.Commun.MessageBus.Dispose
+  name: Dispose()
+  href: reference/Env.Commun.MessageBus.html#Env_Commun_MessageBus_Dispose
+  commentId: M:Env.Commun.MessageBus.Dispose
+  fullName: Env.Commun.MessageBus.Dispose()
+  nameWithType: MessageBus.Dispose()
+- uid: Env.Commun.MessageBus.Dispose*
+  name: Dispose
+  href: reference/Env.Commun.MessageBus.html#Env_Commun_MessageBus_Dispose_
+  commentId: Overload:Env.Commun.MessageBus.Dispose
+  isSpec: "True"
+  fullName: Env.Commun.MessageBus.Dispose
+  nameWithType: MessageBus.Dispose
+- uid: Env.Commun.MessageBus.IsConnected
+  name: IsConnected
+  href: reference/Env.Commun.MessageBus.html#Env_Commun_MessageBus_IsConnected
+  commentId: P:Env.Commun.MessageBus.IsConnected
+  fullName: Env.Commun.MessageBus.IsConnected
+  nameWithType: MessageBus.IsConnected
+- uid: Env.Commun.MessageBus.IsConnected*
+  name: IsConnected
+  href: reference/Env.Commun.MessageBus.html#Env_Commun_MessageBus_IsConnected_
+  commentId: Overload:Env.Commun.MessageBus.IsConnected
+  isSpec: "True"
+  fullName: Env.Commun.MessageBus.IsConnected
+  nameWithType: MessageBus.IsConnected
+- uid: Env.Commun.MessageBus.Publish*
+  name: Publish
+  href: reference/Env.Commun.MessageBus.html#Env_Commun_MessageBus_Publish_
+  commentId: Overload:Env.Commun.MessageBus.Publish
+  isSpec: "True"
+  fullName: Env.Commun.MessageBus.Publish
+  nameWithType: MessageBus.Publish
+- uid: Env.Commun.MessageBus.Publish``1(``0)
+  name: Publish<T>(T)
+  href: reference/Env.Commun.MessageBus.html#Env_Commun_MessageBus_Publish__1___0_
+  commentId: M:Env.Commun.MessageBus.Publish``1(``0)
+  name.vb: Publish(Of T)(T)
+  fullName: Env.Commun.MessageBus.Publish<T>(T)
+  fullName.vb: Env.Commun.MessageBus.Publish(Of T)(T)
+  nameWithType: MessageBus.Publish<T>(T)
+  nameWithType.vb: MessageBus.Publish(Of T)(T)
+- uid: Env.Commun.MessageBus.PublishAsync*
+  name: PublishAsync
+  href: reference/Env.Commun.MessageBus.html#Env_Commun_MessageBus_PublishAsync_
+  commentId: Overload:Env.Commun.MessageBus.PublishAsync
+  isSpec: "True"
+  fullName: Env.Commun.MessageBus.PublishAsync
+  nameWithType: MessageBus.PublishAsync
+- uid: Env.Commun.MessageBus.PublishAsync``1(``0)
+  name: PublishAsync<T>(T)
+  href: reference/Env.Commun.MessageBus.html#Env_Commun_MessageBus_PublishAsync__1___0_
+  commentId: M:Env.Commun.MessageBus.PublishAsync``1(``0)
+  name.vb: PublishAsync(Of T)(T)
+  fullName: Env.Commun.MessageBus.PublishAsync<T>(T)
+  fullName.vb: Env.Commun.MessageBus.PublishAsync(Of T)(T)
+  nameWithType: MessageBus.PublishAsync<T>(T)
+  nameWithType.vb: MessageBus.PublishAsync(Of T)(T)
+- uid: Env.Commun.MessageBus.Request*
+  name: Request
+  href: reference/Env.Commun.MessageBus.html#Env_Commun_MessageBus_Request_
+  commentId: Overload:Env.Commun.MessageBus.Request
+  isSpec: "True"
+  fullName: Env.Commun.MessageBus.Request
+  nameWithType: MessageBus.Request
+- uid: Env.Commun.MessageBus.Request``2(``0)
+  name: Request<TRequest, TResponse>(TRequest)
+  href: reference/Env.Commun.MessageBus.html#Env_Commun_MessageBus_Request__2___0_
+  commentId: M:Env.Commun.MessageBus.Request``2(``0)
+  name.vb: Request(Of TRequest, TResponse)(TRequest)
+  fullName: Env.Commun.MessageBus.Request<TRequest, TResponse>(TRequest)
+  fullName.vb: Env.Commun.MessageBus.Request(Of TRequest, TResponse)(TRequest)
+  nameWithType: MessageBus.Request<TRequest, TResponse>(TRequest)
+  nameWithType.vb: MessageBus.Request(Of TRequest, TResponse)(TRequest)
+- uid: Env.Commun.MessageBus.RequestAsync*
+  name: RequestAsync
+  href: reference/Env.Commun.MessageBus.html#Env_Commun_MessageBus_RequestAsync_
+  commentId: Overload:Env.Commun.MessageBus.RequestAsync
+  isSpec: "True"
+  fullName: Env.Commun.MessageBus.RequestAsync
+  nameWithType: MessageBus.RequestAsync
+- uid: Env.Commun.MessageBus.RequestAsync``2(``0)
+  name: RequestAsync<TRequest, TResponse>(TRequest)
+  href: reference/Env.Commun.MessageBus.html#Env_Commun_MessageBus_RequestAsync__2___0_
+  commentId: M:Env.Commun.MessageBus.RequestAsync``2(``0)
+  name.vb: RequestAsync(Of TRequest, TResponse)(TRequest)
+  fullName: Env.Commun.MessageBus.RequestAsync<TRequest, TResponse>(TRequest)
+  fullName.vb: Env.Commun.MessageBus.RequestAsync(Of TRequest, TResponse)(TRequest)
+  nameWithType: MessageBus.RequestAsync<TRequest, TResponse>(TRequest)
+  nameWithType.vb: MessageBus.RequestAsync(Of TRequest, TResponse)(TRequest)
+- uid: Env.Commun.MessageBus.Respond*
+  name: Respond
+  href: reference/Env.Commun.MessageBus.html#Env_Commun_MessageBus_Respond_
+  commentId: Overload:Env.Commun.MessageBus.Respond
+  isSpec: "True"
+  fullName: Env.Commun.MessageBus.Respond
+  nameWithType: MessageBus.Respond
+- uid: Env.Commun.MessageBus.Respond``2(System.Func{``0,``1})
+  name: Respond<TRequest, TResponse>(Func<TRequest, TResponse>)
+  href: reference/Env.Commun.MessageBus.html#Env_Commun_MessageBus_Respond__2_System_Func___0___1__
+  commentId: M:Env.Commun.MessageBus.Respond``2(System.Func{``0,``1})
+  name.vb: Respond(Of TRequest, TResponse)(Func(Of TRequest, TResponse))
+  fullName: Env.Commun.MessageBus.Respond<TRequest, TResponse>(System.Func<TRequest, TResponse>)
+  fullName.vb: Env.Commun.MessageBus.Respond(Of TRequest, TResponse)(System.Func(Of TRequest, TResponse))
+  nameWithType: MessageBus.Respond<TRequest, TResponse>(Func<TRequest, TResponse>)
+  nameWithType.vb: MessageBus.Respond(Of TRequest, TResponse)(Func(Of TRequest, TResponse))
+- uid: Env.Commun.MessageBus.Subscribe*
+  name: Subscribe
+  href: reference/Env.Commun.MessageBus.html#Env_Commun_MessageBus_Subscribe_
+  commentId: Overload:Env.Commun.MessageBus.Subscribe
+  isSpec: "True"
+  fullName: Env.Commun.MessageBus.Subscribe
+  nameWithType: MessageBus.Subscribe
+- uid: Env.Commun.MessageBus.Subscribe``1(System.String,System.Action{``0})
+  name: Subscribe<T>(String, Action<T>)
+  href: reference/Env.Commun.MessageBus.html#Env_Commun_MessageBus_Subscribe__1_System_String_System_Action___0__
+  commentId: M:Env.Commun.MessageBus.Subscribe``1(System.String,System.Action{``0})
+  name.vb: Subscribe(Of T)(String, Action(Of T))
+  fullName: Env.Commun.MessageBus.Subscribe<T>(System.String, System.Action<T>)
+  fullName.vb: Env.Commun.MessageBus.Subscribe(Of T)(System.String, System.Action(Of T))
+  nameWithType: MessageBus.Subscribe<T>(String, Action<T>)
+  nameWithType.vb: MessageBus.Subscribe(Of T)(String, Action(Of T))
+- uid: Env.Commun.MessageBus.SubscribeAsync*
+  name: SubscribeAsync
+  href: reference/Env.Commun.MessageBus.html#Env_Commun_MessageBus_SubscribeAsync_
+  commentId: Overload:Env.Commun.MessageBus.SubscribeAsync
+  isSpec: "True"
+  fullName: Env.Commun.MessageBus.SubscribeAsync
+  nameWithType: MessageBus.SubscribeAsync
+- uid: Env.Commun.MessageBus.SubscribeAsync``1(System.String,System.Func{``0,System.Threading.Tasks.Task})
+  name: SubscribeAsync<T>(String, Func<T, Task>)
+  href: reference/Env.Commun.MessageBus.html#Env_Commun_MessageBus_SubscribeAsync__1_System_String_System_Func___0_System_Threading_Tasks_Task__
+  commentId: M:Env.Commun.MessageBus.SubscribeAsync``1(System.String,System.Func{``0,System.Threading.Tasks.Task})
+  name.vb: SubscribeAsync(Of T)(String, Func(Of T, Task))
+  fullName: Env.Commun.MessageBus.SubscribeAsync<T>(System.String, System.Func<T, System.Threading.Tasks.Task>)
+  fullName.vb: Env.Commun.MessageBus.SubscribeAsync(Of T)(System.String, System.Func(Of T, System.Threading.Tasks.Task))
+  nameWithType: MessageBus.SubscribeAsync<T>(String, Func<T, Task>)
+  nameWithType.vb: MessageBus.SubscribeAsync(Of T)(String, Func(Of T, Task))
+- uid: Env.Commun.ResponseMessage
+  name: ResponseMessage
+  href: reference/Env.Commun.ResponseMessage.html
+  commentId: T:Env.Commun.ResponseMessage
+  fullName: Env.Commun.ResponseMessage
+  nameWithType: ResponseMessage
+- uid: Env.Commun.ResponseMessage.#ctor(FluentValidation.Results.ValidationResult)
+  name: ResponseMessage(ValidationResult)
+  href: reference/Env.Commun.ResponseMessage.html#Env_Commun_ResponseMessage__ctor_FluentValidation_Results_ValidationResult_
+  commentId: M:Env.Commun.ResponseMessage.#ctor(FluentValidation.Results.ValidationResult)
+  fullName: Env.Commun.ResponseMessage.ResponseMessage(FluentValidation.Results.ValidationResult)
+  nameWithType: ResponseMessage.ResponseMessage(ValidationResult)
+- uid: Env.Commun.ResponseMessage.#ctor*
+  name: ResponseMessage
+  href: reference/Env.Commun.ResponseMessage.html#Env_Commun_ResponseMessage__ctor_
+  commentId: Overload:Env.Commun.ResponseMessage.#ctor
+  isSpec: "True"
+  fullName: Env.Commun.ResponseMessage.ResponseMessage
+  nameWithType: ResponseMessage.ResponseMessage
+- uid: Env.Commun.ResponseMessage.ValidationResult
+  name: ValidationResult
+  href: reference/Env.Commun.ResponseMessage.html#Env_Commun_ResponseMessage_ValidationResult
+  commentId: P:Env.Commun.ResponseMessage.ValidationResult
+  fullName: Env.Commun.ResponseMessage.ValidationResult
+  nameWithType: ResponseMessage.ValidationResult
+- uid: Env.Commun.ResponseMessage.ValidationResult*
+  name: ValidationResult
+  href: reference/Env.Commun.ResponseMessage.html#Env_Commun_ResponseMessage_ValidationResult_
+  commentId: Overload:Env.Commun.ResponseMessage.ValidationResult
+  isSpec: "True"
+  fullName: Env.Commun.ResponseMessage.ValidationResult
+  nameWithType: ResponseMessage.ValidationResult
+- uid: Env.Commun.StringUtils
+  name: StringUtils
+  href: reference/Env.Commun.StringUtils.html
+  commentId: T:Env.Commun.StringUtils
+  fullName: Env.Commun.StringUtils
+  nameWithType: StringUtils
+- uid: Env.Commun.StringUtils.SeulementNumero(System.String,System.String)
+  name: SeulementNumero(String, String)
+  href: reference/Env.Commun.StringUtils.html#Env_Commun_StringUtils_SeulementNumero_System_String_System_String_
+  commentId: M:Env.Commun.StringUtils.SeulementNumero(System.String,System.String)
+  fullName: Env.Commun.StringUtils.SeulementNumero(System.String, System.String)
+  nameWithType: StringUtils.SeulementNumero(String, String)
+- uid: Env.Commun.StringUtils.SeulementNumero*
+  name: SeulementNumero
+  href: reference/Env.Commun.StringUtils.html#Env_Commun_StringUtils_SeulementNumero_
+  commentId: Overload:Env.Commun.StringUtils.SeulementNumero
+  isSpec: "True"
+  fullName: Env.Commun.StringUtils.SeulementNumero
+  nameWithType: StringUtils.SeulementNumero
 - uid: intro_toc
   name: Table-Of-Content (TOC) Files
   href: Concepts/tutorial/intro_toc.html
